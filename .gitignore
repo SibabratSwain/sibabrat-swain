@@ -37,3 +37,10 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#firestore hosting 
+/functions/etc
+/functions/node_modules
+/functions/.gitignore
+/functions/package-lock.json
+
